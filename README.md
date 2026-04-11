@@ -3,7 +3,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/logo-light.svg">
-      <img src="assets/logo-dark.svg" alt="InsForge" width="500">
+      <img src="assets/logo-dark.svg" alt="InsForge" width="400">
     </picture>
   </a>
 
